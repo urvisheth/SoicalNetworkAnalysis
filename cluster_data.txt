@@ -1,0 +1,1 @@
+[<networkx.classes.graph.Graph object at 0x000002B0C4EE50F0>, <networkx.classes.graph.Graph object at 0x000002B0C4EE5F28>, <networkx.classes.graph.Graph object at 0x000002B0C4FD2080>]
