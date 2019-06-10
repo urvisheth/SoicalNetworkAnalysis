@@ -40,6 +40,6 @@ Here is what each script does:
   - One example from each class:
 
 
-Other notes:
+# Other notes:
 
 - Use of any non-standard libraries is included a list of the library names in a file `requirements.txt`. To install that, use the command `pip install -r requirements.txt`.
